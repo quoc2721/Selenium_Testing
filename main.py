@@ -1,3 +1,4 @@
+# Code dùng để đăng nhập
 import time
 
 from selenium import webdriver
@@ -26,7 +27,7 @@ driver.quit()
 
 
 
-
+# Code thứ 2 dùng để đăng lý và hiển thị error
 # import time
 # import unittest
 # from selenium import webdriver
